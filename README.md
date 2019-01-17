@@ -1,6 +1,8 @@
 # vue-sandbox
 You can use this as a starting point for your VueJS and Vue-BootStrap application
-## Project setup
+
+
+## Project setup - Install dependencies
 ```
 npm install
 ```
@@ -27,4 +29,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-Testing ground for VueJS
+VueJS + Boostrap-Vue Boilerplate
